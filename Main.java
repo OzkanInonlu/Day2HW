@@ -4,10 +4,10 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		User user1=new User(1,"Özkan","İnönlü","ozkaanmax@gmail.com","1234",
+		User user1=new User(1,"Ã–zkan","ÃnÃ¶nlÃ¼","ozkaanmax@gmail.com","1234",
 				"Male");
 	
-		User user2=new User(1,"Engin","Demiroğ","enginDemirog@gmai.com","1234",
+		User user2=new User(2,"Engin","DemiroÃ°","enginDemirog@gmai.com","1234",
 				"Male");
 		
 		UserManager userManager=new UserManager();
