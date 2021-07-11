@@ -1,1 +1,1 @@
-# Day2HW
+# Day2HW for JavaReact Camp
